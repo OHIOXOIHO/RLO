@@ -3,6 +3,7 @@ script_name = 'RLO'
 script_description = 'Reverses the order of the selected lines.'
 script_author = 'OHIOXOIHO'
 script_version = '1.1'
+script_namespace = "Selected.LineReverce05"
 
 
 
